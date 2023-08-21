@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome to my personal website - thanks for your patience while I add content
+title: Welcome to my personal website
 categories: Miscellaneous
 ---
 
-Welcome to my personal website - thanks for your patience while I add content
+I just created my website. Thanks for your patience while I add content.
 

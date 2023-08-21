@@ -4,5 +4,5 @@ title: Welcome to my personal website - thanks for your patience while I add con
 categories: Miscellaneous
 ---
 
-
+Welcome to my personal website - thanks for your patience while I add content
 

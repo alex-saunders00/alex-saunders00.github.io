@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Search
 permalink: /search/
+title: Search
 ---
 
 <div id="search-container">

@@ -23,4 +23,4 @@ I am currently studying for my PhD at the University of Arizona. I completed my 
 
 
 
-![image info](../images/alex_igarss.jpg "Photo")
+![photo](../images/alex.jpg "Photo")

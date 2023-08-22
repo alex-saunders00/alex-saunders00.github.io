@@ -14,7 +14,8 @@ In collaboration with the Bangladesh Institute of Water and Flood Management and
 In the second year of this project, the northeast of Bangladesh was hit by extreme floods, described as worse than previous catastrophic floods in 1988 and 2004. As agencies responded with maps of flooded areas for emergency relief and response, this proved an opportunity to evaluate and compare commonly employed flood mapping techniques in the case of a single, large-scale flood event. 
 
 
-![sylhet flooding image](../images/sylhet.png "Sylhet flooding")
+![sylhet flooding image](../images/sylhet_large.png "Sylhet flooding")
+_Source: Getty images_
 
 
 Our findings - published in the conference proceedings to the Institute of Electrical and Electronics Engineers (IEEE) International Geoscience and Remote Sensing Symposium (IGARSS 2023) - show that:

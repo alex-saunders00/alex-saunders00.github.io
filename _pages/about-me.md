@@ -20,7 +20,5 @@ I am currently studying for my PhD at the University of Arizona. I completed my 
 * _2013-2017:_ MGeophys and BSc, Geophysical Sciences, University of Leeds, UK
 
 
-
-
-
 ![photo](../images/alex.jpg "Photo")
+_Thanks for visiting my webpage! Please contact me using the links at the bottom of this page if you would like more information or to connect with me._

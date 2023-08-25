@@ -4,12 +4,9 @@ permalink: /publications/
 title: Publications
 ---
 
-### ORCID 
-
-[My ORCID](https://orcid.org/0009-0009-4490-6975)
+You can find a list of my academic publications below or via [my ORCID.](https://orcid.org/0009-0009-4490-6975)
 
 
-### Publications
 
 _PREPRINT_ Friedrich, H.K., Tellman, B., Sullivan, J.A., **Saunders, A.**, Zuniga-Terran, A.A., Bakkensen, L., Cawley, M., Dolk, M., Emberson, R., Forrest, S.A., Gupta, N., Gyawali, N., Hall, C.A., Kettner, A., Lozano, J.L.S., Bola, G.B., 2023. Earth Observation to Monitor and Redress Inequitable Post-Flood Recovery. <https://doi.org/10.22541/essoar.169143843.33195193/v1>
 

@@ -14,7 +14,7 @@ In the northeast of the country, we visited flood prone locations and spoke with
 
 In the capital city of Dhaka, we delivered two workshops to invited participants from organizations spanning the public and private sectors, covering current flood resilience activities of local and national organizations, and a technical capacity building session on extracting flood insights from satellite data. 
 
-Links to all satellite flood data training resources are available at this [link.](https://drive.google.com/file/d/1naPqMjyoWHr4l6XO8TCxtcVWyIbbBuQl/view)
+Links to all satellite flood data training resources are available at this [link](https://drive.google.com/file/d/1naPqMjyoWHr4l6XO8TCxtcVWyIbbBuQl/view).
 
 
 ![workshop image](../images/workshop.png "Workshop")

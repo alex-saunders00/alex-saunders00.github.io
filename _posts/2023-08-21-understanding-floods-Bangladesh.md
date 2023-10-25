@@ -18,7 +18,7 @@ In the second year of this project, the northeast of Bangladesh was hit by extre
 _Source: Getty images_
 
 
-Our findings - published in the conference proceedings to the Institute of Electrical and Electronics Engineers (IEEE) International Geoscience and Remote Sensing Symposium (IGARSS 2023) - show that:
+Our findings - [published](https://ieeexplore.ieee.org/document/10283378) in the conference proceedings to the Institute of Electrical and Electronics Engineers (IEEE) International Geoscience and Remote Sensing Symposium (IGARSS 2023) - show that:
 
 * A “local” non-machine learning (ML) algorithm and a “global” ML (pre-trained CNN) produced equally high accuracy, showing that ML generalized well to this specific flood event (though may have benefitted from having been trained on data from another flood in Bangladesh).
 
@@ -26,5 +26,5 @@ Our findings - published in the conference proceedings to the Institute of Elect
 
 * A deep-learning multi-sensor fusion of MODIS and Sentinel-1 successfully overcame challenges of persistent cloud cover which hamper MODIS-only algorithms, which is encouraging for the use of sensor fusion approaches more broadly.
 
-You can view the slides presented at IGARSS 2023 [here.](https://drive.google.com/file/d/1WzTTe189PvqW6jx2WFvjMq3vR3rCYu3J/view?usp=sharing)
+You can view the slides presented at IGARSS 2023 [here](https://drive.google.com/file/d/1WzTTe189PvqW6jx2WFvjMq3vR3rCYu3J/view?usp=sharing).
 

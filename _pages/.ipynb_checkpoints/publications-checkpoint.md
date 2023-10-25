@@ -12,7 +12,7 @@ _PREPRINT_ Friedrich, H.K., Tellman, B., Sullivan, J.A., **Saunders, A.**, Zunig
 
 
 
-**Saunders, A.**, Giezendanner, J., Tellman, B., Islam, A.K.M.S., Bhuyan, M.A., Islam, A., 2023. [A COMPARISON OF REMOTE SENSING APPROACHES TO ASSESS THE DEVASTATING MAY-JUNE 2022 FLOODING IN SYLHET, BANGLADESH](https://drive.google.com/file/d/1PHNAwfl6N3MDpyXzEPrdaIDVBGoIlJ_s/view?usp=sharing), in: IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium. Presented at the IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium.  
+**Saunders, A.**, Giezendanner, J., Tellman, B., Islam, A.K.M.S., Bhuyan, M.A., Islam, A., 2023. [A COMPARISON OF REMOTE SENSING APPROACHES TO ASSESS THE DEVASTATING MAY-JUNE 2022 FLOODING IN SYLHET, BANGLADESH](https://ieeexplore.ieee.org/document/10283378), in: IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium. Presented at the IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium.  
 
 
 

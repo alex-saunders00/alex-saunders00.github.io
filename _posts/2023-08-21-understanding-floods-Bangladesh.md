@@ -18,6 +18,8 @@ In the second year of this project, the northeast of Bangladesh was hit by extre
 _Source: Getty images_
 
 
+### Comparing remote sensing approaches to map the Sylhet floods
+
 Our findings - [published](https://ieeexplore.ieee.org/document/10283378) in the conference proceedings to the Institute of Electrical and Electronics Engineers (IEEE) International Geoscience and Remote Sensing Symposium (IGARSS 2023) - show that:
 
 * A “local” non-machine learning (ML) algorithm and a “global” ML (pre-trained CNN) produced equally high accuracy, showing that ML generalized well to this specific flood event (though may have benefitted from having been trained on data from another flood in Bangladesh).
@@ -26,5 +28,11 @@ Our findings - [published](https://ieeexplore.ieee.org/document/10283378) in the
 
 * A deep-learning multi-sensor fusion of MODIS and Sentinel-1 successfully overcame challenges of persistent cloud cover which hamper MODIS-only algorithms, which is encouraging for the use of sensor fusion approaches more broadly.
 
-You can view the slides presented at IGARSS 2023 [here](https://drive.google.com/file/d/1WzTTe189PvqW6jx2WFvjMq3vR3rCYu3J/view?usp=sharing).
 
+### Presenting to the geoscience and remote sensing communities
+
+In July 2023, I presented these findings at the IGARSS annual conference, as part of the session _"Advanced Flood Monitoring and Prediction for Disaster Risk Reduction and Resilience Infrastructure"_. You can view the slides [here](https://drive.google.com/file/d/1WzTTe189PvqW6jx2WFvjMq3vR3rCYu3J/view?usp=sharing).
+
+
+![igarss team image](../images/igarss_team.png "Social Pixel Lab at IGARSS")
+_Members of the Social Pixel Lab at IGARSS 2023, Pasadena, CA_

@@ -34,5 +34,5 @@ Our findings - [published](https://ieeexplore.ieee.org/document/10283378) in the
 In July 2023, I presented these findings at the IGARSS annual conference, as part of the session _"Advanced Flood Monitoring and Prediction for Disaster Risk Reduction and Resilience Infrastructure"_. You can view the slides [here](https://drive.google.com/file/d/1WzTTe189PvqW6jx2WFvjMq3vR3rCYu3J/view?usp=sharing).
 
 
-![igarss team image](../images/igarss_team.png "Social Pixel Lab at IGARSS")
+![igarss team image](../images/igarss_team.jpg "Social Pixel Lab at IGARSS")
 _Members of the Social Pixel Lab at IGARSS 2023, Pasadena, CA_

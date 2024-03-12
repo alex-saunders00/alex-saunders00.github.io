@@ -4,7 +4,7 @@ permalink: /about/
 title: About Me
 ---
 
-Hi, I’m Alex, a reinsurance and humanitarian professional with a background in geophysical sciences. I am currently studying for a PhD in the School of Geography, Development & Environment at the University of Arizona. In my research, I seek to answer questions around disaster risk management and risk financing for extreme climate events. I work with satellite data to map and quantify disaster impacts, which I aim to employ along with disparate sources like in-situ measurements and census data to enable scalable financial mechanisms that can improve resilience to floods and other hazards which threaten lives and livelihoods around the globe.
+Hi, I’m Alex, a reinsurance and humanitarian professional with a background in geophysical sciences. I am currently studying for a PhD in the School of Geography, Development & Environment at the University of Arizona. In my research, I seek to answer questions around disaster risk management and risk financing for extreme climate events. My work combines remote sensing, machine learning and statistical methods to enhance our understanding of agricultural weather risks in settings spanning rural Bangladesh to the US Midwest.
 
 ### My background
 

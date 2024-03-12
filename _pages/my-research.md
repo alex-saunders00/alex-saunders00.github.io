@@ -4,14 +4,9 @@ permalink: /my-research/
 title: My Research
 ---
 
-When disasters strike, effective risk financing can help communities and economies to recover quicker and with reduced enduring impacts. In my research, I am interested in a new wave of insurance - “index insurance” - which aims to address some of the shortcomings of traditional insurance, including lack of access, affordability, slowness of payments and moral hazard. I seek to understand whether new datasets - in particular, remote sensing - can support scalable, sustainable, inclusive and equitable index insurance mechanisms in contexts where the traditional insurance business model has failed.
+When disasters strike, effective risk financing can help communities and economies to recover quicker and with reduced enduring impacts. However, financing programs must meet the needs of the vulnerable people whom they promise to serve. In my research, I am interested in the role of insurance in managing flood risks to agriculture and how satellite technologies can help to improve insurance processes and recovery outcomes for climate vulnerable populations.
 
-
-My motivation for this stems from my time working in the global reinsurance industry, where I worked with public sector clients - including the Moroccan government - to develop macro (re)insurance programs intended to build resilience through novel approaches to risk finance. I aim to contribute towards more focused research into different index metrics and approaches to encourage rigorous, transparent and validated index designs being implemented in emerging real-world index insurance programs.
-
-
-Ultimately, new financing schemes must meet the needs of the vulnerable people whom they promise to serve, and so responsibility and accountability in program design is critical as governments, groups and individuals consider new approaches to risk financing as part of their broader risk management strategies.
-
+My motivation for this stems from my time working in the global reinsurance industry, where I worked with public sector clients to develop macro (re)insurance programs intended to build resilience through novel approaches to risk finance. This included working with the Government of Morocco to establish the first index-based reinsurance contract in the country. In my current work, I focus on evaluating different approaches to index-based insurance, with the aim to encourage rigorous, transparent and validated index designs in emerging real-world insurance programs.
 
 ### Research Areas
 

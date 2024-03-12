@@ -6,6 +6,10 @@ title: Presentations
 
 You can find a list of my recent academic presentations below:
 
+_CEMS 3rd Global Flood Forecasting & Monitoring Meeting, March 2024, Online_ - [“A Comparison of Sentinel-1 Approaches to Map the May-June 2022 Floods in Sylhet, Bangladesh”](https://drive.google.com/file/d/11eREHgtePGY5xNy7PuiQ7RjoXb6mNLKz/view?usp=sharing)
+
+![image info](../images/pres3.PNG "Presentation 3")
+
 
 _Institute of Electrical and Electronics Engineers (IEEE) International Geoscience and Remote Sensing Symposium (IGARSS), July 2023, Pasadena, CA, USA_ - [“A Comparison of Remote Sensing Approaches to Assess the Devastating May-June 2022 Flooding in Sylhet, Bangladesh”](https://drive.google.com/file/d/1WzTTe189PvqW6jx2WFvjMq3vR3rCYu3J/view?usp=sharing)
 

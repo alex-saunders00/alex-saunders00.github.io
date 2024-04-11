@@ -6,6 +6,12 @@ title: Presentations
 
 You can find a list of my recent academic presentations below:
 
+
+_Arizona Institute for Resilience, International Resilience, Climate Adaptation in the Global South, April 2024, University of Arizona - [“Index-based flood insurance in Bangladesh: some thoughts and related research”](https://drive.google.com/file/d/1wRE8XTevCgJKFCv-pfxtcQctm2ZZkwuH/view?usp=sharing)
+
+![image info](../images/pres4.png "Presentation 4")
+
+
 _CEMS 3rd Global Flood Forecasting & Monitoring Meeting, March 2024, Online_ - [“A Comparison of Sentinel-1 Approaches to Map the May-June 2022 Floods in Sylhet, Bangladesh”](https://drive.google.com/file/d/11eREHgtePGY5xNy7PuiQ7RjoXb6mNLKz/view?usp=sharing)
 
 ![image info](../images/pres3.png "Presentation 3")

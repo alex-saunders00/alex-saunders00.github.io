@@ -4,7 +4,8 @@ permalink: /publications/
 title: Publications
 ---
 
-You can find a list of my academic publications below or via my [Google Scholar](https://scholar.google.com/citations?hl=en&user=nKfjqIAAAAAJ) and [ORCID](https://orcid.org/0009-0009-4490-6975) pages.
+**You can find a list of my academic publications below or via my [Google Scholar](https://scholar.google.com/citations?hl=en&user=nKfjqIAAAAAJ) and [ORCID](https://orcid.org/0009-0009-4490-6975) pages.**
+
 
 
 Sullivan, J.A., Friedrich, H.K., Tellman, B., **Saunders, A.**, Belury, L., **2024**. _Five key needs for addressing flood injustice_, Eos, 105, <https://doi.org/10.1029/2024EO240068](https://doi.org/10.1029/2024EO240068>

@@ -4,7 +4,7 @@ title: Using Earth Observations to Reveal Inequitable Flood Recoveries
 categories: [Flood Justice, Earth Observations, Papers]
 ---
 
-While Earth Observations (EO) are now widely used to understand where and when floods happen, rarely are they used to monitor what happens in communities after floods, and how that might differ amongst different parts of society. In our new paper [_Earth Observation to Address Inequities in Post-Flood Recovery_](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023EF003606), led by my colleague and fellow graduate student, __Hannah Friedrich__, along with co-authors from the University of Arizona and beyond, we argue that EO is well positioned to monitor post-flood recoveries. Furthermore, EO-based monitoring is necessary to identify inequitable recovery outcomes that result from unjust practices of disaster mitigation and assistance.
+While Earth Observations (EO) are now widely used to understand where and when floods happen, rarely are they used to monitor what happens in communities after floods, and how that might differ amongst different parts of society. In our new paper [_Earth Observation to Address Inequities in Post-Flood Recovery_](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023EF003606), led by my colleague __Hannah Friedrich__ along with co-authors from the University of Arizona and beyond, we argue that EO is well positioned to monitor post-flood recoveries. Furthermore, EO-based monitoring is necessary to identify inequitable recovery outcomes that result from unjust practices of disaster mitigation and assistance.
 
 With its ever-increasing capacities across spatial, temporal and spectral scales, we believe that EO can support flood recovery through:
 
@@ -24,7 +24,7 @@ To support this movement towards post-flood recovery monitoring, we present a fr
 I encourage you to also check out Hannah's recent [Twitter thread](https://x.com/hk_friedrich/status/1761049707327971470) for a brilliant summary of the paper: _"This is a call to action for EO scientists to seek funding so partners can hold leadership in scoping out recovery monitoring."_
 
 ![framework_image](../images/eoMonitorRecoveryFramework.png "Framework")
-_Framework we propose to use EO to monitor flood recovery and redress inequitable recoveries [(Friedrich et al., 2024)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023EF003606)._
+_We propose a framework to use EO to monitor flood recovery and redress inequitable recoveries [(Friedrich et al., 2024)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023EF003606)._
 
 
 

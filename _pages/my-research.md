@@ -11,9 +11,9 @@ My motivation for this stems from my time working in the global reinsurance indu
 ### Research Areas
 
 * Climate risk finance
-* Disaster economics
-* Index insurance
-* Public insurance programs
+* Index-based insurance
 * Forecast-based financing
+* Public insurance programs
 * Flood hazards, monitoring and mapping
 * Resilience and adaptation in agricultural settings
+* Disaster economics

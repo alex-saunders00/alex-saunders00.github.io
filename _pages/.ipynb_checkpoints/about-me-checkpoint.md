@@ -6,7 +6,7 @@ title: About Me
 
 Hi, I’m Alex, a reinsurance and humanitarian professional with a background in geophysical sciences. I am currently studying for a PhD in the School of Geography, Development & Environment at the University of Arizona. In my research, I seek to answer questions around disaster risk management and risk financing for extreme climate events. My work combines remote sensing, machine learning and statistical methods to enhance our understanding of agricultural weather risks in settings spanning rural Bangladesh to the US Midwest.
 
-### My background
+### Background
 
 Prior to my current position in the [Social Pixel Lab](https://beth-tellman.github.io/) at the University of Arizona led by Dr Beth Tellman, I worked as a technical advisor for [Start Network](https://startnetwork.org/), supporting NGOs to develop disaster risk financing systems to support the most vulnerable during crises. In the role, I produced technical evaluations of systems across Asia and Africa.
 

@@ -4,7 +4,7 @@ permalink: /projects/
 title: Projects
 ---
 
-You can read about projects I am involved with via the posts on my Homepage or by following the links below:
+**You can read about some of the projects I am involved with via the posts on my Homepage or by following the links below:**
 
 * [Understanding flood risk in Bangladesh through satellites and machine learning](https://alex-saunders00.github.io/understanding-floods-Bangladesh/)
 

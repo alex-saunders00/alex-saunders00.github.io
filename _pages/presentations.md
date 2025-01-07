@@ -11,7 +11,12 @@ _American Geophysical Union (AGU), December 2024, Washington D.C., USA_ - [“Gl
 ![image info](../images/pres6.png "Presentation 6")
 
 
-_**[Student poster award winner]** Computational Methods in Water Resources, October 2024, University of Arizona, USA_ - [“Global Near Real-Time Daily Inundation Mapping using VIIRS Satellite Imagery and Deep Learning”](https://drive.google.com/file/d/1L0ZFkv0LA68ATrT_D-M4X4uAJQ9J7akI/view?usp=sharing)
+_American Geophysical Union (AGU), December 2024, Washington D.C., USA_ - [“Addressing flood risks to agriculture with satellites and machine learning”](https://drive.google.com/file/d/1sffBxpeEQm933uzoiTeDAce15ofWbuBF/view?usp=sharing)
+
+![image info](../images/pres7.png "Presentation 7")
+
+
+_**[Student poster award winner]** Computational Methods in Water Resources (CMWR), October 2024, University of Arizona, USA_ - [“Global Near Real-Time Daily Inundation Mapping using VIIRS Satellite Imagery and Deep Learning”](https://drive.google.com/file/d/1L0ZFkv0LA68ATrT_D-M4X4uAJQ9J7akI/view?usp=sharing)
 
 ![image info](../images/pres5.png "Presentation 5")
 
@@ -21,7 +26,7 @@ _Arizona Institute for Resilience, International Resilience, Climate Adaptation 
 ![image info](../images/pres4.png "Presentation 4")
 
 
-_CEMS 3rd Global Flood Forecasting & Monitoring Meeting, March 2024, Online_ - [“A Comparison of Sentinel-1 Approaches to Map the May-June 2022 Floods in Sylhet, Bangladesh”](https://drive.google.com/file/d/11eREHgtePGY5xNy7PuiQ7RjoXb6mNLKz/view?usp=sharing)
+_Copernicus Emergency Management Services, 3rd Global Flood Forecasting & Monitoring Meeting, March 2024, Online_ - [“A Comparison of Sentinel-1 Approaches to Map the May-June 2022 Floods in Sylhet, Bangladesh”](https://drive.google.com/file/d/11eREHgtePGY5xNy7PuiQ7RjoXb6mNLKz/view?usp=sharing)
 
 ![image info](../images/pres3.png "Presentation 3")
 

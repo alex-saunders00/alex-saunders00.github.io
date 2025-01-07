@@ -6,6 +6,13 @@ title: Presentations
 
 **You can find some of my recent academic presentations below:**
 
+_American Geophysical Union (AGU), December 2024, Washington D.C., USA_ - [“Global Near Real-Time Daily Inundation Mapping using VIIRS Satellite Imagery and Deep Learning”](https://drive.google.com/file/d/1jgvXb1V442mS0NiCIZGfLshjBIufG-hf/view?usp=sharing)
+
+![image info](../images/pres6.pdf "Presentation 6")
+
+_[Student poster award winner] Computational Methods in Water Resources, October 2024, University of Arizona, USA_ - [“Global Near Real-Time Daily Inundation Mapping using VIIRS Satellite Imagery and Deep Learning”](https://drive.google.com/file/d/1L0ZFkv0LA68ATrT_D-M4X4uAJQ9J7akI/view?usp=sharing)
+
+![image info](../images/pres5.pdf "Presentation 5")
 
 _Arizona Institute for Resilience, International Resilience, Climate Adaptation in the Global South, April 2024, University of Arizona, USA_ - [“Index-based flood insurance in Bangladesh: some thoughts and related research”](https://drive.google.com/file/d/1wRE8XTevCgJKFCv-pfxtcQctm2ZZkwuH/view?usp=sharing)
 

@@ -4,7 +4,7 @@ title: Global daily inundation mapping with VIIRS satellite imagery and deep-lea
 categories: [Floods, Earth Observations, Global, Machine Learning, NASA]
 ---
 
-**The University of Arizona is developing a global inundation model in collaboration with the NASA Goddard Space Flight Center. The model uses VIIRS satellite imagery to map fractional inundation globally every day at 375-meters resolution. If deployed, the model will be NASA’s first operational flood mapping service which uses machine learning.**
+The University of Arizona is developing a global inundation model in collaboration with the NASA Goddard Space Flight Center. The model uses VIIRS satellite imagery to map fractional inundation globally every day at 375-meters resolution. If deployed, the model will be NASA’s first operational flood mapping service which uses machine learning.
 
 ### Continuity in flood monitoring after the end of MODIS data
 

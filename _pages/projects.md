@@ -6,7 +6,7 @@ title: Projects
 
 **You can read about some of the projects I am involved with via the posts on my Homepage or by following the links below:**
 
-* [Global daily inundation mapping with VIIRS satellite imagery and deep-learning](https://alex-saunders00.github.io/global-inundation-viirs/)
+* [Global daily inundation mapping with VIIRS satellite imagery and deep learning](https://alex-saunders00.github.io/global-inundation-viirs/)
 
 * [Using Earth Observations to reveal inequitable flood recoveries](https://alex-saunders00.github.io/eo-for-flood-recovery-monitoring/)
 

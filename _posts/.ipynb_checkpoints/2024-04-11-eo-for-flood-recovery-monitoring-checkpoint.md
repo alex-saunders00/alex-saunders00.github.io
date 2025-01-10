@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using Earth Observations to Reveal Inequitable Flood Recoveries
+title: Using Earth Observations to reveal inequitable flood recoveries
 categories: [Flood Justice, Earth Observations, Papers]
 ---
 

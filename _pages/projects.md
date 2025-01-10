@@ -8,7 +8,7 @@ title: Projects
 
 * [Global daily inundation mapping with VIIRS satellite imagery and deep-learning](https://alex-saunders00.github.io/global-inundation-viirs/)
 
-* [Using earth observations to reveal inequitable flood recoveries](https://alex-saunders00.github.io/eo-for-flood-recovery-monitoring/)
+* [Using Earth Observations to reveal inequitable flood recoveries](https://alex-saunders00.github.io/eo-for-flood-recovery-monitoring/)
 
 * [Insurance Reforms Early Career Panel at the Managed Retreat Conference 2023](https://alex-saunders00.github.io/insurance-reforms-early-careers-panel/)
 

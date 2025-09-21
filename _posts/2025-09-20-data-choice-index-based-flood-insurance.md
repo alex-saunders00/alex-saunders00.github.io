@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sensitivity to data choice for index-based flood insurance: new publication in AGU Earth's Future
+title: New publication on data choice for index-based flood insurance
 categories: [Floods, Earth Observations, Insurance, Publications]
 ---
 
@@ -31,8 +31,11 @@ _We simulated historical index-based flood insurance payouts in Bangladesh using
 Based on our findings, we propose four important considerations for practitioners working on current or future index-based flood programs:
 
 1) **Test a range of datasets to identify which best meets needs of the program, paying attention to the relevant spatial scale:** in particular, being aware that error rates can be higher at finer spatial scales.
+
 2) **Compare multiple indices to identify if additional program actions are needed to manage lower confidence in index-based payouts:** assessing multiple indices in a "convergence/diverge-of-evidence" approach can help to highlight regions benefitting from "back-up" payout mechanisms or additional risk assessment activities.
+
 3) **Evaluate new data sources that can improve payout timeliness or reduce uncertainty:** including machine learning (i.e., AI) methods, which should not necessarily be assosicated with prohibitive overheads, as we show with our state-of-the-art approach.
+
 4) **Select data that capture relative variability in intensity:** indices that consistently track variation over time and space are more helpful than indices which capture the "absolute" accuracy at a single point in time.
 
 On top of our recommendations, we encourage practitioners to use our approach to test their own candidate datasets in other regions while evaluating against observed damages for pre-identified communities or assets. Looking forward, better data on the human impacts of flood disasters will enable practitioners to assess indexed flood programs not only on the provision of indexed payouts but on their contribution to household welfare. We welcome novel research to collect data on the human impacts of flooding and generate methodological frameworks for incorporating these estimates.

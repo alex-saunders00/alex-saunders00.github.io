@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Global daily inundation mapping with VIIRS satellite imagery and deep-learning
+title: Global daily inundation mapping with VIIRS satellite imagery and deep learning
 categories: [Floods, Earth Observations, Global, Machine Learning, NASA]
 ---
 

@@ -7,8 +7,10 @@ title: Publications
 **You can find a list of my academic publications below or via my [Google Scholar](https://scholar.google.com/citations?hl=en&user=nKfjqIAAAAAJ) and [ORCID](https://orcid.org/0009-0009-4490-6975) pages.**
 
 
+**Saunders, A.**, Tellman, B., Benami, E., Anchukaitis, K., Hossain, S., Bennett, A., Islam, A.K.M.S., Giezendanner, J., **2025**. _Sensitivity to Data Choice for Index-Based Flood Insurance_. Earth’s Future 13, e2025EF005966. <https://doi.org/10.1029/2025EF005966>
 
-Sullivan, J.A., Friedrich, H.K., Tellman, B., **Saunders, A.**, Belury, L., **2024**. _Five key needs for addressing flood injustice_, Eos, 105, <https://doi.org/10.1029/2024EO240068](https://doi.org/10.1029/2024EO240068>
+
+Sullivan, J.A., Friedrich, H.K., Tellman, B., **Saunders, A.**, Belury, L., **2024**. _Five key needs for addressing flood injustice_. Eos, 105, <https://doi.org/10.1029/2024EO240068](https://doi.org/10.1029/2024EO240068>
 
 
 Friedrich, H.K., Tellman, B., Sullivan, J.A., **Saunders, A.**, Zuniga-Teran, A.A., Bakkensen, L.A., Cawley, M., Dolk, M., Emberson, R.A., Forrest, S.A., Gupta, N., Gyawali, N., Hall, C.A., Kettner, A.J., Lozano, J.L.S., Bola, G.B., **2024**. _Earth Observation to Address Inequities in Post-Flood Recovery_. Earth’s Future 12, e2023EF003606. <https://doi.org/10.1029/2023EF003606>

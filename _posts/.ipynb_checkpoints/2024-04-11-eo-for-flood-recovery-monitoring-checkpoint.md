@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Earth Observations to reveal inequitable flood recoveries
-categories: [Flood Justice, Earth Observations, Papers]
+categories: [Flood Justice, Earth Observations, Publications]
 ---
 
 While Earth Observations (EO) are now widely used to understand where and when floods happen, rarely are they used to monitor what happens in communities after floods, and how that might differ amongst different parts of society. In our new paper [_Earth Observation to Address Inequities in Post-Flood Recovery_](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023EF003606), led by my colleague __Hannah Friedrich__ along with co-authors from the University of Arizona and beyond, we argue that EO is well positioned to monitor post-flood recoveries. Furthermore, EO-based monitoring is necessary to identify inequitable recovery outcomes that result from unjust practices of disaster mitigation and assistance.

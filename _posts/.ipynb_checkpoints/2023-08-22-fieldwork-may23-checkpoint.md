@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flood fieldwork and remote sensing workshops in Bangladesh
-categories: [Floods, Fieldwork, Bangladesh]
+categories: [Floods, Fieldwork, Capacity Building, Bangladesh]
 ---
 
 As part of the NASA New Investigator Program _“Understanding flood risk in human altered landscapes from cities to farms: inferences from satellites and machine learning”_ led by P.I. Dr Beth Tellman, in May 2023, I traveled to Bangladesh with Beth and two other colleagues from the Social Pixel Lab.
@@ -24,4 +24,5 @@ __Links to all satellite flood data training resources are available at this [li
 ![workshop image](../images/workshop.png "Workshop")
 
 
-
+![workshop_in_action image](../images/workshop_headshot2.png "Workshop_in_action")
+_We showed workshop participants how to generate flood maps using openly available satellite imagery in Google Earth Engine._

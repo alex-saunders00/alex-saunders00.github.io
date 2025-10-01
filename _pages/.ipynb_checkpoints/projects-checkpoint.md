@@ -16,6 +16,8 @@ title: Projects
 
 * [Understanding flood risk in Bangladesh through satellites and machine learning](https://alex-saunders00.github.io/understanding-floods-Bangladesh/)
 
+* [Fieldwork and remote sensing and flood insurance capacity building in Bangladesh](https://alex-saunders00.github.io/fieldwork-may23/)
+
 
 
 

@@ -7,6 +7,9 @@ title: Publications
 **You can find a list of my academic publications below or via my [Google Scholar](https://scholar.google.com/citations?hl=en&user=nKfjqIAAAAAJ) and [ORCID](https://orcid.org/0009-0009-4490-6975) pages.**
 
 
+**Saunders, A.**, Giezendanner, J., Tellman, B., Slayback, D., Policelli, F., Zhang, R., Mukherjee, R., **2026**. _Fractional water detection with VIIRS and deep learning to enhance global flood monitoring._ [Preprint.] https://doi.org/10.2139/ssrn.6554000
+
+
 **Saunders, A.**, Tellman, B., Benami, E., Anchukaitis, K., Hossain, S., Bennett, A., Islam, A.K.M.S., Giezendanner, J., **2025**. _Sensitivity to Data Choice for Index-Based Flood Insurance_. Earth’s Future 13, e2025EF005966. <https://doi.org/10.1029/2025EF005966>
 
 
